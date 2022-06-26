@@ -90,7 +90,7 @@ try {
 const solanaMetadata = {
   symbol: "YC",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "null",
+  external_url: "https://opensea.io/collection/aniversenft",
   creators: [
     {
       address: "0xaE30dC93c54ef9Ba1ad129E3aC9C20e269882B74",
