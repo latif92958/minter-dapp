@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the AniMetaVerse NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The AniMetaVerse NFT Project is a decentralized, open-source project that aims to provide you a companion in your Metaverse world so that you dont feel left alone.';
+const welcome_p = 'The AniMetaVerse NFT Project is a decentralized, open-source project that aims to provide you a companion in your Metaverse world so that you dont feel left alone. <a href="https://opensea.io/collection/aniversenft"  target="_blank" rel="noopener noreferrer">AniMetaVerse</a> .';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
